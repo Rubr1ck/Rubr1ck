@@ -2,8 +2,8 @@
 
 #### Tools:
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git)
 
 #### Front-end:
 
